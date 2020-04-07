@@ -1,7 +1,7 @@
 # App Store Demo Animation
 Demo UIVIewControllerTransition animation like AppStore-Today
 
-![demo]()
+![demo](https://github.com/Truong98/AppStoreDemoAnimation/blob/master/Demo.gif)
 
 ## Introduction
 Using native APIs to show how such App Store presentation might work.
